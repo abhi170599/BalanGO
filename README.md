@@ -12,6 +12,7 @@
  2.  #####     Easy to use CLI
 
 
+
 ### Usage
 1.  Generate a **Config.xml** file
 ```xml     
@@ -27,9 +28,11 @@
  </Config>
 ```  
 
-2. Use the **balango CLI **to start the load balancer
+
+2. Use the **balango CLI** to start the load balancer
 
     > balango  --config=Config.xml     
+
 
 ### **Binaries**	
 
