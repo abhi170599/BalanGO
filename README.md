@@ -19,11 +19,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Config>
   	 <Servers>
-    		 <Server address="http://localhost:5000"/>
-     		<Server address="http://localhost:5001"/>
-     		<Server address="http://localhost:5002"/>
-    		<Mode>RR</Mode>
-    		<Port>3030</Port>
+      <Server address="http://localhost:5000"/>
+      <Server address="http://localhost:5001"/>
+      <Server address="http://localhost:5002"/>
+     
+      <Mode>RR</Mode>
+      <Port>3030</Port>
    	</Servers>
  </Config>
 ```  
