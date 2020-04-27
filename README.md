@@ -24,7 +24,8 @@
     		<Mode>RR</Mode>
     		<Port>3030</Port>
    	</Servers>
- </Config>```  
+ </Config>
+```  
 
 2. Use the **balango CLI **to start the load balancer
 
