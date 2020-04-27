@@ -14,8 +14,7 @@
 
 ### Usage
 1.  Generate a **Config.xml** file
-      
-	  ```xml
+```xml     
 <?xml version="1.0" encoding="UTF-8"?>
 <Config>
   	 <Servers>
