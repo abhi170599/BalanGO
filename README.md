@@ -7,8 +7,8 @@
 ### **Features**
 
  1.  #####   Multiple modes of configuration
-      -           Round Robin Configuration
-      - 		  Adaptive Load Balancing
+                -Round Robin Configuration
+                -Adaptive Load Balancing
  2.  #####     Easy to use CLI
 
 
